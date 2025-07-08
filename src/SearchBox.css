@@ -1,0 +1,7 @@
+.SearchBox{
+
+ text-align: center; /* Ensures the text inside is centered */
+ padding: 20px;
+ border-radius: 10px;
+margin-bottom: 20px;
+}
